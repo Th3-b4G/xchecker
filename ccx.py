@@ -30,8 +30,8 @@ Banner()
 def menu():
 		print("""
 \033[91m[1]  \033[95mPAYPAL CHECKER \033[92m(MAIL)
-\033[91m[2]  \033[95mBIN    CHECKER \033[92m(MAIL)
-\033[91m[3]  \033[95mSSN    CHECKER \033[92m(MAIL)
+\033[91m[2]  \033[95mBIN    CHECKER \033[92m
+\033[91m[3]  \033[95mSSN    CHECKER \033[92m
 \033[91m[000] \033[95mCHECK FOR UPDATE
 			""")
 menu()
